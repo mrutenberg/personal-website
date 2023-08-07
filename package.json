@@ -1,0 +1,9 @@
+{
+  "name": "meir.rutenberg.co.uk",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
+}
